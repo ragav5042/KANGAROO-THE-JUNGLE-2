@@ -1,1 +1,1 @@
-# KANGAROO-THE-JUNGLE-2
+# project-template-kangaroo-2
